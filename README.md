@@ -1,8 +1,10 @@
+# NAME : LINGAESHWAR K
+
 # MODULE-3
 Module 3 repository
 ---
 
-1.### Program: Calculate Age using Function (With Return Type and With Arguments)
+# 1.Calculate Age using Function (With Return Type and With Arguments)
 
 **Aim:**  
 To calculate the current age of a person using a function with return type and arguments.
@@ -37,15 +39,17 @@ int main()
 }
 ```
 **output**
+
 <img width="522" height="172" alt="image" src="https://github.com/user-attachments/assets/6af5eb8c-7173-4980-9815-a1c4202d086e" />
 
 **Result:**
+
 The program calculates and displays the current age of a person based on the given date of birth and current date.
 
 
 ---
 
-2.### Program: Check Whether a Number is an Armstrong Number or Not
+# 2.Program: Check Whether a Number is an Armstrong Number or Not
 
 **Aim:**  
 To check whether the entered number is an Armstrong number using loops and mathematical operations.
@@ -102,14 +106,16 @@ int main()
 }
 ```
 **output**
+
 <img width="765" height="167" alt="image" src="https://github.com/user-attachments/assets/f57fb6d5-0fa0-4edd-bb3e-57219a162c97" />
 
 **Result:**
+
 The program determines whether the entered number is an Armstrong number and displays the corresponding message.
 
 ---
 
-3.### Program: Print the Elements of the Last Column of an n × n Matrix
+# 3.Program: Print the Elements of the Last Column of an n × n Matrix
 
 **Aim:**  
 To read the elements of an `n × n` matrix and print the elements of its last column.
@@ -150,13 +156,15 @@ int main()
 }
 ```
 **output**
+
 <img width="731" height="310" alt="image" src="https://github.com/user-attachments/assets/73f99ec3-7945-45ee-aed1-307c579c33ce" />
 
 **Result:**
+
 The program successfully prints all the elements of the last column of the entered square matrix.
 ---
 
-4.### Program: Sort Elements of an Array in Ascending Order
+# 4. Program: Sort Elements of an Array in Ascending Order
 
 **Aim:**  
 To write a C program that reads elements into an array and sorts them in ascending order using the Bubble Sort algorithm.
@@ -206,13 +214,15 @@ int main()
 }
 ```
 **output**
+
 <img width="743" height="117" alt="image" src="https://github.com/user-attachments/assets/8aec992d-5091-43ab-aa6e-2757d25496cd" />
 
 **Result:**
-The program sorts the entered array elements in ascending order and displays the sorted array.
+
+ The program sorts the entered array elements in ascending order and displays the sorted array.
 ---
 
-5.### Program: Count Even and Odd Numbers in an Array
+# 5.Program: Count Even and Odd Numbers in an Array
 
 **Aim:**  
 To write a C program that reads an array of integers and counts the number of even and odd elements using loops.
@@ -262,8 +272,10 @@ int main()
 }
 ```
 **output**
+
 <img width="586" height="138" alt="image" src="https://github.com/user-attachments/assets/b2954207-3da5-44fd-beee-1dba311649bd" />
 
 **Result:**
-The program counts and displays the total number of even and odd elements in the entered array.
+
+# The program counts and displays the total number of even and odd elements in the entered array.
 ---
